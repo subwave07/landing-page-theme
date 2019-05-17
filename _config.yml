@@ -10,8 +10,8 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2019 University of the Eastern Piedmont. All Rights Reserved.<br/>All other marks may be trademarks or registered trademarks of their respective owners.'
-credits: Landing Page Theme by <a href="http://startbootstrap.com/">Start Bootstrap</a><br/>Header photo by Alex Machado on <a href=https://unsplash.com/photos/80sv993lUKI>Unsplash</a>
+copyright: 'Copyright &copy; 2019 <a href="https://www.uniupo.it">University of the Eastern Piedmont</a>. All Rights Reserved.<br/>All other marks may be trademarks or registered trademarks of their respective owners.'
+credits: Landing Page Theme by <a href="https://startbootstrap.com">Start Bootstrap</a><br/>Header photo by <a href="https://unsplash.com/@alexmachado">Alex Machado</a>
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
