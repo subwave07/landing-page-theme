@@ -1,6 +1,6 @@
 ---
 layout: default
-img: tui.png
+img: tui2.png
 category: Features
 title: Manage your Cloud Services with a single Text User Interface
 description: |
