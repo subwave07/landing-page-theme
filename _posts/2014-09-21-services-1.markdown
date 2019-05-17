@@ -5,4 +5,5 @@ category: Features
 title: Manage your Cloud Services with a single Text User Interface
 description: |
 ---
-  CloudTUI-FTS supports most of the basic operations regarding your Virtual Machines, Floating IPs and Volumes.
+  Thanks to CloudTUI-FTS, the user can easily complete basic  (service starting-up/shutting-down) and complex tasks (create policies and mechanisms to 
+  prevent faults and to provide service scalability
