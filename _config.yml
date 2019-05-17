@@ -11,8 +11,7 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2019 University of the Eastern Piedmont. All Rights Reserved.<br/>All other marks may be trademarks or registered trademarks of their respective owners.'
-credits: Landing Page Theme by <a href="http://startbootstrap.com/">Start Bootstrap</a>
-
+credits: Landing Page Theme by <a href="http://startbootstrap.com/">Start Bootstrap</a><br/>Header photo by Alex Machado on <a href=https://unsplash.com/photos/80sv993lUKI>Unsplash</a>
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
