@@ -7,4 +7,4 @@ description: |
 ---
   CloudTUI can interact with different cloud providers, such as [Chameleon Cloud](https://www.chameleoncloud.org),
   [Amazon Web Services](https://aws.amazon.com) and [Google Cloud Platform](https://cloud.google.com)
-  through their specific API libraries or third-party ones like Apache Libcloud.
+  through their specific API libraries or third-party ones like [Apache Libcloud](https://libcloud.apache.org).
