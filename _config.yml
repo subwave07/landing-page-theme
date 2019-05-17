@@ -10,7 +10,7 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2019 University of the Eastern Piedmont. All Rights Reserved. Companies names, brands, logos and associated imagery featured in this page in some cases include trademarks and/or copyrighted materials of their respective owners. All rights reserved.'
+copyright: 'Copyright &copy; 2019 University of the Eastern Piedmont. All Rights Reserved.<br/>Companies names, brands, logos and associated imagery featured in this page are copyrighted materials of their respective owners. All rights reserved.'
 credits: Landing Page Theme by <a href="http://startbootstrap.com/">Start Bootstrap</a>
 
 # ----------------------- #
